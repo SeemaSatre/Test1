@@ -1,0 +1,2 @@
+This is the first file being added by Seema S.
+The first draft is created through VI on Putty.
